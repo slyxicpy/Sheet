@@ -1,6 +1,6 @@
-# Sheet ES — Sylcx
+# Sheet — Sylcx
 
-Wassup, aqui una central de **cheatsheets en español especificamente**, conexion con SminOs 
+Wassup, aqui una central de **cheatsheets**, conexion con SminOs
 
 ## ℣ Lenguajes
 - [C](./c)
